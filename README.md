@@ -1,1 +1,3 @@
-# TDS-P1
+- Using the GitHub API, I scraped data of Zurich-based developers with over 50 followers, including their profile information and repository details.
+- Interestingly, many developers in this community do not utilize both GitHub projects and wikis, potentially limiting collaboration and knowledge-sharing opportunities.
+- Developers should consider enabling both projects and wikis on their repositories to increase transparency and boost engagement with contributors.
